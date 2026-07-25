@@ -48,7 +48,7 @@
     "typescript": "^5.1.6",
     "vite": "^4.4.7",
     "vitest": "^0.33.0",
-    "wait-on": "^7.0.1"
+    "wait-on": "^7.2.0"
   },
   "dependencies": {
     "@radicle/gray-matter": "4.1.0",
@@ -57,13 +57,13 @@
     "baconjs": "^3.0.17",
     "bs58": "^5.0.0",
     "buffer": "^6.0.3",
-    "dompurify": "^3.0.5",
+    "dompurify": "^3.4.12",
     "hast-util-to-dom": "^3.1.1",
     "hast-util-to-html": "^8.0.4",
     "lodash": "^4.17.21",
     "marked": "^5.1.2",
     "marked-katex-extension": "^3.0.0",
-    "marked-linkify-it": "^3.1.0",
+    "marked-linkify-it": "^3.1.15",
     "md5": "^2.3.0",
     "plausible-tracker": "^0.3.8",
     "sinon": "^15.2.0",
