@@ -37,7 +37,7 @@
   "dependencies": {
     "@babel/runtime": "^7.3.4",
     "@toast-ui/editor": "^3.2.0",
-    "axios": "0.18.0",
+    "axios": "0.33.0",
     "clipboard": "1.7.1",
     "codemirror": "5.39.2",
     "default-passive-events": "^1.0.10",
@@ -133,7 +133,7 @@
     "webpack": "^4.29.6",
     "webpack-bundle-analyzer": "2.13.1",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "5.2.6",
     "webpack-merge": "4.1.4"
   },
   "engines": {
