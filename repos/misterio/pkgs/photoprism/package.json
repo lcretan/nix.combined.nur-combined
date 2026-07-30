@@ -93,7 +93,7 @@
     "sockette": "^2.0.6",
     "style-loader": "^3.3.1",
     "svg-url-loader": "^7.1.1",
-    "tar": "^6.1.11",
+    "tar": "^7.5.22",
     "url-loader": "^4.1.1",
     "util": "^0.12.4",
     "vue": "^2.6.14",
