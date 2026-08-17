@@ -57,7 +57,7 @@
     "baconjs": "^3.0.17",
     "bs58": "^5.0.0",
     "buffer": "^6.0.3",
-    "dompurify": "^3.0.5",
+    "dompurify": "^3.4.13",
     "hast-util-to-dom": "^3.1.1",
     "hast-util-to-html": "^8.0.4",
     "lodash": "^4.17.21",
